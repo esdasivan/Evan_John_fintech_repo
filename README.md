@@ -2,7 +2,9 @@
 
 Repository for fintech boot camp project February 12, 2022
 
-#Fintech Case Study on Affirm
+# Fintech Case Study on Affirm
+
+![https://www.investopedia.com/thmb/pFF5GudvWXuMqO8lQaeNdke56Es=/1500x1000/filters:fill(auto,1)/affirm-inv-0e09a831ae6f4f2bb51adedf9eacebff.png]
 
 **Evan Sadasivan & John Ryan**
 
