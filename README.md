@@ -4,7 +4,7 @@ Repository for fintech boot camp project February 12, 2022
 
 # Fintech Case Study on Affirm
 
-![https://www.investopedia.com/thmb/pFF5GudvWXuMqO8lQaeNdke56Es=/1500x1000/filters:fill(auto,1)/affirm-inv-0e09a831ae6f4f2bb51adedf9eacebff.png]
+![](https://www.investopedia.com/thmb/d_2VSNfyRnXQV1MwsJQIDKrPw48=/300x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Affirm_Logo_Primary-ec3c1cd8bb0c431a887a5ad3ed060e73.png)
 
 **Evan Sadasivan & John Ryan**
 
